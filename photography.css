@@ -187,10 +187,8 @@ div.pointer {
   height: 200px;
   margin: 10px;
   background-color: #abe2ff;
+  transition: opacity .3s ease-out;
 }
-
-
-
 
 #container {
     background: #e3e3e3;
